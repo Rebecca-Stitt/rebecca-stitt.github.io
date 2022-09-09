@@ -20,6 +20,11 @@ h1{
   font-size: 14px;
 
 }
+
+@media (max width: 200px){
+.blog-header {font-size: 10px;
+}}
+
 .small-heading{
   color: #3c3c6d;
   background-color: blanchedalmond;
@@ -67,5 +72,9 @@ float: left;}
   .list {
     text-align: center; 
     list-style-position:inside; 
-  
+
+}
+.main-paragraph{
+  font-size: 14px;
+  font-color: white;
 }
