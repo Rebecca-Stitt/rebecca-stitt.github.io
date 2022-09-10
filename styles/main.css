@@ -22,9 +22,12 @@ body{
 
 }
 
-@media (max width: 200px){
-.blog-header {font-size: 10px;
-}}
+@media (max-width: 320px)
+  .blog-header {
+    font-size: 12px;
+  }
+
+
 
 .small-heading{
   color: #3c3c6d;
@@ -46,6 +49,10 @@ h2{
   font-size: 14px;
   
 }
+@media (max-width: 320px) {
+  h2text {
+    font-size: 12px;
+  }
 
  .div container{color: #3c3c6d;
   background-color: red;
@@ -77,3 +84,6 @@ p {color:#3c3c6d;
 
 h1{18}
 .header{}
+
+  
+}
