@@ -11,6 +11,8 @@ body{
   padding: 10px; 10px; 20px; 10px;
   text-align: center;
   font-size: 16px;
+  max-width: 7600px;
+  margin: auto;
 }
 
 .blog-header {color: #3c3c6d;
