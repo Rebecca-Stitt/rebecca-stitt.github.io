@@ -1,0 +1,133 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496.36 496.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fbaef;
+      }
+
+      .cls-2 {
+        fill: #fd6248;
+      }
+
+      .cls-3 {
+        fill: #fee333;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #71d338;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 11.73 11.73;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 13.76 13.76;
+      }
+
+      .cls-7 {
+        font-size: 32.63px;
+        letter-spacing: -0.02em;
+      }
+
+      .cls-7, .cls-9 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-size: 25.6px;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>tip1_nobg</title>
+  <rect class="cls-1" width="496.36" height="496.36"/>
+  <rect class="cls-2" x="103.76" y="103.76" width="288.84" height="288.84"/>
+  <rect class="cls-3" x="114.98" y="114.98" width="266.41" height="266.41"/>
+  <g>
+    <polyline class="cls-4" points="342.12 268.82 342.12 274.82 336.12 274.82"/>
+    <line class="cls-5" x1="324.4" y1="274.82" x2="166.1" y2="274.82"/>
+    <polyline class="cls-4" points="160.24 274.82 154.24 274.82 154.24 268.82"/>
+    <line class="cls-6" x1="154.24" y1="255.06" x2="154.24" y2="234.42"/>
+    <polyline class="cls-4" points="154.24 227.54 154.24 221.54 160.24 221.54"/>
+    <line class="cls-5" x1="171.96" y1="221.54" x2="330.26" y2="221.54"/>
+    <polyline class="cls-4" points="336.12 221.54 342.12 221.54 342.12 227.54"/>
+    <line class="cls-6" x1="342.12" y1="241.3" x2="342.12" y2="261.94"/>
+  </g>
+  <text class="cls-7" transform="translate(166.82 257.75)">C<tspan class="cls-8" x="22.97" y="0">ONTENT</tspan></text>
+  <text class="cls-9" transform="translate(193.66 178.57)"><tspan class="cls-10">p</tspan><tspan class="cls-11" x="17.28" y="0">a</tspan><tspan class="cls-12" x="32.44" y="0">ddi</tspan><tspan class="cls-13" x="74.05" y="0">n</tspan><tspan x="91.43" y="0">g</tspan></text>
+  <g>
+    <rect x="247.65" y="129.74" width="1.05" height="25.2"/>
+    <path d="M720,280.21a31.89,31.89,0,0,0,5,9l-5-1.81-5,1.81A31.89,31.89,0,0,0,720,280.21Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <g>
+    <rect x="247.65" y="183.68" width="1.05" height="25.2"/>
+    <path d="M720,372.05a31.89,31.89,0,0,0-5-9l5,1.81,5-1.81A31.89,31.89,0,0,0,720,372.05Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <text class="cls-9" transform="translate(201.16 63.59)">ma<tspan class="cls-14" x="42.27" y="0">r</tspan><tspan class="cls-15" x="52.21" y="0">gin</tspan></text>
+  <text class="cls-9" transform="translate(343.75 77.62)">bo<tspan class="cls-14" x="33.41" y="0">r</tspan><tspan class="cls-16" x="43.35" y="0">der</tspan></text>
+  <g>
+    <rect x="247.65" y="14.76" width="1.05" height="25.2"/>
+    <path d="M720,165.23a31.75,31.75,0,0,0,5,9l-5-1.81-5,1.81A31.75,31.75,0,0,0,720,165.23Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <g>
+    <rect x="247.65" y="68.7" width="1.05" height="25.2"/>
+    <path d="M720,257.07a31.84,31.84,0,0,0-5-9l5,1.8,5-1.8A31.84,31.84,0,0,0,720,257.07Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <g>
+    <rect x="386.47" y="82.73" width="1.05" height="25.2"/>
+    <path d="M858.81,271.1a31.51,31.51,0,0,0-5-9l5,1.81,5-1.81A31.75,31.75,0,0,0,858.81,271.1Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <text class="cls-9" transform="translate(193.66 338.41)"><tspan class="cls-10">p</tspan><tspan class="cls-11" x="17.28" y="0">a</tspan><tspan class="cls-12" x="32.44" y="0">ddi</tspan><tspan class="cls-13" x="74.05" y="0">n</tspan><tspan x="91.43" y="0">g</tspan></text>
+  <g>
+    <rect x="247.65" y="404.55" width="1.05" height="25.2"/>
+    <path d="M720,555a31.89,31.89,0,0,0,5,9l-5-1.81L715,564A31.89,31.89,0,0,0,720,555Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <g>
+    <rect x="247.65" y="458.5" width="1.05" height="25.2"/>
+    <path d="M720,646.87a31.89,31.89,0,0,0-5-9l5,1.81,5-1.81A31.89,31.89,0,0,0,720,646.87Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <text class="cls-9" transform="translate(201.16 453.39)">ma<tspan class="cls-14" x="42.27" y="0">r</tspan><tspan class="cls-15" x="52.21" y="0">gin</tspan></text>
+  <g>
+    <rect x="247.65" y="289.58" width="1.05" height="25.2"/>
+    <path d="M720,440.05a31.75,31.75,0,0,0,5,9l-5-1.81L715,449A31.75,31.75,0,0,0,720,440.05Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+  <g>
+    <rect x="247.65" y="343.52" width="1.05" height="25.2"/>
+    <path d="M720,531.89a31.84,31.84,0,0,0-5-9l5,1.8,5-1.8A31.84,31.84,0,0,0,720,531.89Z" transform="translate(-471.82 -156.82)"/>
+  </g>
+</svg>
